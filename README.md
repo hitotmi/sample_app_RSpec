@@ -1,2 +1,2 @@
-# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】
-DMM WEBCAMPの学習コンテンツアプリケーションを完成させようの研修課題です。
+# DMM WEBCAMPコンテンツ【RSpecを使ってRailsアプリケーションをテストしてみよう】
+DMM WEBCAMPの学習コンテンツRSpecを使ってRailsアプリケーションをテストしてみようの演習問題です。
